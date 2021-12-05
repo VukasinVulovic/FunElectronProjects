@@ -1,0 +1,16 @@
+{
+  "name": "achievement",
+  "version": "1.0.0",
+  "description": "microsoft achievement",
+  "main": "index.js",
+  "icon": "./icon.ico",
+  "author": "Vukasin Vulovic",
+  "license": "ISC",
+  "builder": {
+    "icon": "./icon.ico"
+  },
+  "electronWebpack": {
+    "staticSourceDirectory": "./assets"
+  },
+  "dependencies": {}
+}
