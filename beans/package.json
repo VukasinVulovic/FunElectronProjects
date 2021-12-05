@@ -1,0 +1,11 @@
+{
+  "name": "beans",
+  "version": "0.69.0",
+  "description": "B E A N S",
+  "main": "index.js",
+  "icon": "./build/icon.ico",
+  "author": "Vukasin Vulovic",
+  "license": "ISC",
+  "dependencies": {
+  }
+}

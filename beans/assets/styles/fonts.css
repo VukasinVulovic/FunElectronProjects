@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Ununtu';
+    src: url(../fonts/Ubuntu-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'IBMPlexSans';
+    src: url(../fonts/IBMPlexSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Popins';
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'RussoOne';
+    src: url(../fonts/RussoOne-Regular.ttf);
+}
