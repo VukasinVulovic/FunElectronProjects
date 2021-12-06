@@ -1,0 +1,38 @@
+body, html {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+@font-face {
+    font-family: "ChaletParis";
+    src: url(./fonts/chalet-parisnineteeneighty.ttf);
+}
+
+@font-face {
+    font-family: "Pricedown";
+    src: url(./fonts/pricedown.otf);
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.397);
+}
+
+.title {
+    font-family: "Pricedown";
+    color: #ce9f1d;
+    opacity: 0.9;
+    font-size: 85pt;
+    padding: 0;
+    margin: 0;
+}
+
+.text {
+    font-family: "ChaletParis";
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    opacity: 0.9;
+    font-size: 14pt;
+    padding: 0;
+    margin: 0;
+}
